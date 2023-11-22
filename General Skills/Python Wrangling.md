@@ -13,7 +13,6 @@ Python scripts are invoked kind of like programs in the Terminal... Can you run 
 5. Since we need to decrypt it, use -d 
 6. Enter $ python3 ende.py -d pole.txt
 7. Enter the passwd found in pw.txt
-8. Flag found
 
 # Flag
 picoCTF{4p0110_1n_7h3_h0us3_aa821c16}
