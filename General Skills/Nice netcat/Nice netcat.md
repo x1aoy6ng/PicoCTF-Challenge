@@ -12,6 +12,7 @@ but it doesn't speak English...
 
 # Easiest way to find flag without using ASCII table
 I wrote a Python script to make it easier for me to find the flag.
+Find the [source](General Skills/Nice netcat/ASCII.py) here
 
 # Flag
 picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
