@@ -12,5 +12,5 @@ This file has a flag in plain sight (aka "in-the-clear"). [Download flag](https:
 picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}
 
 # Command Info
-wget - download the file
+wget - download the file <br>
 cat - see the contents in the file
