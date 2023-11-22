@@ -8,7 +8,6 @@ Can you invoke help flags for a tool or binary? This [program](https://mercury.p
 3. Make terminal executable with: $ chmod +x warm
 4. Enter this in terminal prompt: $ ./warm
 5. Enter this in terminal prompt to get the flag: $ ./warm -h 
-6. Flag found
 
 # Flag
 picoCTF{b1scu1ts_4nd_gr4vy_755f3544}
