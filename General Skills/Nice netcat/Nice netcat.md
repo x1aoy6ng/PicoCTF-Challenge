@@ -8,7 +8,6 @@ but it doesn't speak English...
 2. Enter this command in the terminal prompt:$ nc mercury.picoctf.net 43239
 3. You will see a list of numbers come out....
 4. Using ASCII table to find the flag
-5. Flag found
 
 # Easiest way to find flag without using ASCII table
 I wrote a Python script to make it easier for me to find the flag.
