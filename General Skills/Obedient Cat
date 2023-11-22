@@ -1,0 +1,9 @@
+# Solution
+
+1. Open webshell terminal
+2. Enter this in the Terminal prompt: $ wget https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag
+3. Enter $ cat flag
+
+// Command
+wget - download the file
+cat - see the contents in the file
