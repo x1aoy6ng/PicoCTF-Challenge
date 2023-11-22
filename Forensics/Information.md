@@ -13,5 +13,5 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](ht
 picoCTF{the_m3tadata_1s_modified}
 
 # Command
-exiftool - read, write or create files
+exiftool - read, write or create files <br>
 echo - display lines of strings that are passed as arguments
