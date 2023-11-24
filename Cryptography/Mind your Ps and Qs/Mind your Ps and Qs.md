@@ -13,6 +13,7 @@ p = 1899107986527483535344517113948531328331 <br>
 q = 674357869540600933870145899564746495319033 <br>
 
 # Using this python script to find flag
+Find the [script](https://github.com/xiaoyangishere/PicoCTF-Challenge/blob/main/Cryptography/Mind%20your%20Ps%20and%20Qs/Script.py) here
 
 # Flag
 picoCTF{sma11_N_n0_g0od_05012767}
